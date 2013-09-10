@@ -2,8 +2,7 @@
  * Class which loads images
  * using a MediaTracker
  *
- * author  Adriana Ferraro
- * version   S2, 2012
+ * not written by me - code from a previous assignment
  */
 
 import java.awt.*; 

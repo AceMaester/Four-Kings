@@ -1,9 +1,8 @@
 /*
  * Purpose: stores the constants for
- * the A1 game.
+ * the game.
  * 
- * Author: Adriana Ferraro
- * Date: S2 2012
+ * adpated code from a past assignment
  */
 
 import java.awt.*;

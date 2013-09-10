@@ -3,10 +3,6 @@
  * 
  */
 
-/*
- 8 Marks
- */
-
 import java.awt.*; 
 import javax.swing.*;
 

@@ -1,3 +1,10 @@
+//Main panel and logic, Andrew Ettles 2013
+
+
+
+
+
+
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 

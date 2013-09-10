@@ -1,9 +1,8 @@
 /*
- * Purpose: application for the Patience game
-
+ * Application and MainFrame
  * 
- * Author: Adriana Ferraro
- * Date: S2 2012
+ * Andrew Ettles
+ *
  */
 
 
